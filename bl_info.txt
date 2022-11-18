@@ -1,0 +1,13 @@
+bl_info = {
+    "name": "1993",
+    "description": "Imports 3D models found on a 1993 shareware disc into Blender.",
+    "author": "Skyplayer",
+    "version": (1, 0),
+    "blender": (3, 3, 0),
+    "location": "Import > 1993-3D",
+    "warning": "", # used for warning icon and text in addons panel
+    "doc_url": "",
+    "tracker_url": "",
+    "support": "COMMUNITY",
+    "category": "Import-Export",
+}
